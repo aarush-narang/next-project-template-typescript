@@ -39,3 +39,5 @@ and their dependencies.
 -   The `public` folder is used for static assets that are not imported in the application.
 -   The `styles` folder is used for global styles and style modules.
 -   The `util` folder is used for utility functions and other code that is not a component.
+
+All necessary configuration files are included in the template and can be modified as needed.
