@@ -132,3 +132,5 @@ dist
 
 # ignore all __pycache__ folders
 **/__pycache__/*
+
+.DS_Store
