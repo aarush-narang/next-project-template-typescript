@@ -1,6 +1,6 @@
 # Project Template For NextJS in Typescript
 
-Yarn is used as the package manager in this template, but you can use npm if you need to.
+Yarn is used as the package manager in this template, but you can use npm (or any other package manager) if you need to as all dependencies are included in the `package.json` file.
 
 ## Included Packages
 
