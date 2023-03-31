@@ -1,5 +1,7 @@
 # Project Template For NextJS in Typescript
 
+Yarn is used as the package manager in this template, but you can use npm if you need to.
+
 ## Included Packages
 
 -   NextJS
@@ -26,3 +28,14 @@ and their dependencies.
 -   `export`: Export the application to static HTML
 -   `test`: Run Jest tests
 -   `test:ci`: Run Jest tests in CI mode
+
+## Other Info
+
+-   The `__tests__` folder is used for Jest tests.
+-   The `components` folder is used for components in the application.
+-   The `lib` folder is used for utility functions and other code that is not a component.
+-   The `pages` folder is used for pages in the application.
+-   The `pages/api` folder is used for API routes.
+-   The `public` folder is used for static assets that are not imported in the application.
+-   The `styles` folder is used for global styles and style modules.
+-   The `util` folder is used for utility functions and other code that is not a component.
