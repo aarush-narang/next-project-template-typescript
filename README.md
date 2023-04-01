@@ -33,7 +33,7 @@ and their dependencies.
 
 -   The `__tests__` folder is used for Jest tests.
 -   The `components` folder is used for components in the application.
--   The `lib` folder is used for utility functions and other code that is not a component.
+-   The `lib` folder is used for utility functions and other code that is not a component (including, but not limited to, methods for updating your database, constant variables, middleware, etc.).
 -   The `pages` folder is used for pages in the application.
 -   The `pages/api` folder is used for API routes.
 -   The `public` folder is used for static assets that are not imported in the application.
